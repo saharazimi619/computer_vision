@@ -1,3 +1,3 @@
 # test_repo
 Hello
-this is a test repositories
+this is a test repository
