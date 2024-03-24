@@ -1,3 +1,3 @@
-# test_repo
+# object_detection_repo
 Hello
-this is a test repository
+this is my first repository for object detection project
