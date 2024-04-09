@@ -1,3 +1,8 @@
+''''''
+#sahar azimi
+#Taking a BGR photo and turning it a grayscale photo
+
+''''''
 import cv2 as cv
 import numpy as np
 
