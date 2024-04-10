@@ -1,3 +1,3 @@
-# object_detection_repo
+# object_detection_branch
 Hello
-i want to work with python for my computer vision project
+this is my "object detection branch" for face detection and car detection and ...
