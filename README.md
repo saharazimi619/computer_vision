@@ -1,3 +1,3 @@
-# object_detection_repo
+# computer_vision_branch
 Hello
-this is my first repository for test
+this is my "vision branch" for introductory codes in computer vision
