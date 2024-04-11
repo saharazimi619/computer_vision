@@ -23,5 +23,4 @@ cv2.drawContours(img, [lp_contours],-1,(0,255,0),2)
 cv2.imshow('contours draw',img)
 pytesseract.pytesseract.tesseract_cmd
 
-
 cv2.waitKey(0)
